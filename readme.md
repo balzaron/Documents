@@ -52,7 +52,7 @@
     + 目录
 + 项目中的技术
     + 目录
-    + WebSocke
+    + WebSocket
         + 介绍
         + 常用场景
         + 测试方法
@@ -82,3 +82,7 @@
     + outlook
     + Pycharm
         +  Debug
++ 基础运维
+    + 目录
+    + docker
+    + kubernetes
